@@ -1,4 +1,4 @@
-# Jason Wang — Software Career Mentoring
+# Software Career Mentoring
 
 React + TypeScript website built with Vite.
 
